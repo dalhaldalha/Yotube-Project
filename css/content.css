@@ -1,0 +1,8 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-color: lightpink;
+  height: 260px;
+  left: 264px;
+}
