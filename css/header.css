@@ -8,6 +8,36 @@
   right: 0px;
   left: 0px;
   height: 56px;
+  align-items: center;
+}
+
+.search-div {
+  display: flex;
+}
+
+.search-button {
+  display: flex;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  border: solid;
+  border-width: 0.5px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  border-color: silver;
+  max-width: 500px;
+}
+
+.go-button {
+  border: solid;
+  border-width: 0.5px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-left: 0px;
+  border-color: silver;
+
 }
 
 .header2 {
